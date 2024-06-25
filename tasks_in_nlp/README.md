@@ -7,6 +7,6 @@
 
 `Wisper` была предложена в статье [Robust Speech Recognition via Large-Scale Weak Supervision:](https://arxiv.org/abs/2212.04356)
 
-Репозиторий исходного кода находится [здесь](https://github.com/openai/whisper)
+Репозиторий исходного кода модели находится [здесь](https://github.com/openai/whisper)
 
 ### Задача синтеза речи (TTS)
